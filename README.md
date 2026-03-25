@@ -1,13 +1,18 @@
-## Olá, eu sou o Alyson (Sallyz) 👋
-Sou de Brasília e busco excelência na união entre Software e Hardware.
+# Olá, eu sou o Alyson (Sallyz) 👋
 
-🛠️ No meu radar:
-Linguagens: Mergulhando em Java e JavaScript.
+Sou de **Brasília** e apaixonado pela intersecção entre o hardware potente e o código eficiente.
 
-Hardware: Entusiasta de montagem de PCs e otimização de performance.
+### 🛠️ No meu Laboratório:
+- **Linguagens:** Mergulhando em **Java** e **JavaScript**.
+- **Hardware:** Entusiasta em montagem de PCs e otimização de performance (High-End & Gaming).
+- **Sistemas:** Explorando como o software extrai o máximo do hardware.
 
-Objetivo: Criar sistemas eficientes e entender o computador do bit ao código.
+### 🚀 Objetivos:
+- Construir aplicações robustas e limpas.
+- Documentar minha evolução em lógica de programação.
 
+---
+*"Foco na lógica, precisão na execução."*
 <!--
 **sallyz-dev/sallyz-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
