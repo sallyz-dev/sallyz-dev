@@ -1,4 +1,4 @@
-## HOlá, eu sou o Alyson (Sallyz) 👋
+## Olá, eu sou o Alyson (Sallyz) 👋
 Sou de Brasília e busco excelência na união entre Software e Hardware.
 
 🛠️ No meu radar:
