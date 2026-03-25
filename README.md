@@ -1,4 +1,12 @@
-## Hi there 👋
+## HOlá, eu sou o Alyson (Sallyz) 👋
+Sou de Brasília e busco excelência na união entre Software e Hardware.
+
+🛠️ No meu radar:
+Linguagens: Mergulhando em Java e JavaScript.
+
+Hardware: Entusiasta de montagem de PCs e otimização de performance.
+
+Objetivo: Criar sistemas eficientes e entender o computador do bit ao código.
 
 <!--
 **sallyz-dev/sallyz-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
