@@ -1,4 +1,4 @@
-# Olá, eu sou o Alyson (Sallyz) 👋
+# Olá, eu sou o Alyson (Dizzih) 👋
 
 Sou de **Brasília** e apaixonado pela intersecção entre o hardware potente e o código eficiente.
 
